@@ -1,14 +1,11 @@
-merge
-hello, world!
-
 Guten morgen!
-
+ i don't know, i continue anyways
 Good night!
 
 New line!
 
 New lines.
-
+this appears to be risky business
 New line here.
 Hello!
 New line added during rec!
